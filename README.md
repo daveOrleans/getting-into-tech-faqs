@@ -18,6 +18,7 @@ One or all of the following:
 - An inquisitive nature, you need to always be looking forwards
 - An insatiable appetite to learn, without learning you will stay still
 - The ability to simplify, Tech can be complex so you need to add simplicity (Colin Chapman once said of Motoracing cars to "Simplify and add lightness", the tech equivilent is "simplify and use less buzzwords")
+- Patience and the ability to accept failure (it WILL happen and is part of the learning process)
 
 
 ### What are the most important character traits for the tech industry?
